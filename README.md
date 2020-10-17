@@ -24,5 +24,3 @@ You can access API using `/wp-json/wpapi/v1` path.
 
 ## More Information
 Here’s a link to  [REST API Handbook | WordPress Developer Resources](https://developer.wordpress.org/rest-api/)
-
-
